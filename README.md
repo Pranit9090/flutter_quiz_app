@@ -1,16 +1,14 @@
-# Flutter Quiz App
+# 🎯 Flutter Quiz App
 
-A new Flutter project.
+A beautiful and beginner-friendly **quiz application** built with **Flutter**. This app displays multiple-choice questions with gradient UI, interactive buttons, and score tracking — perfect for learning Flutter basics and state management.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🟣 Gradient background UI for each screen
+- 🧠 MCQ questions with 4 options
+- ✅ Score calculation on correct answers
+- 🔄 Quiz restart option
+- 📦 Modular code with reusable widgets (like `OptionButton`, `GradientBackground`)
+- 📁 Clean structure for scalability
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
